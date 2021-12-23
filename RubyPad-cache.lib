@@ -19,11 +19,11 @@ X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# TMK_parts_ATMEGA32U4
+# RubyPad-rescue_ATMEGA32U4-TMK_parts
 #
-DEF TMK_parts_ATMEGA32U4 U 0 40 Y Y 1 F N
+DEF RubyPad-rescue_ATMEGA32U4-TMK_parts U 0 40 Y Y 1 F N
 F0 "U" 0 -1250 60 H V C CNN
-F1 "TMK_parts_ATMEGA32U4" 0 1250 60 H V C CNN
+F1 "RubyPad-rescue_ATMEGA32U4-TMK_parts" 0 1250 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -75,11 +75,11 @@ X PB1/SCK 9 -1050 250 300 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# TMK_parts_C
+# RubyPad-rescue_C-TMK_parts
 #
-DEF TMK_parts_C C 0 10 N Y 1 F N
+DEF RubyPad-rescue_C-TMK_parts C 0 10 N Y 1 F N
 F0 "C" 50 100 50 H V L CNN
-F1 "TMK_parts_C" 50 -100 50 H V L CNN
+F1 "RubyPad-rescue_C-TMK_parts" 50 -100 50 H V L CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -95,11 +95,11 @@ X ~ 2 0 -200 170 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# TMK_parts_D
+# RubyPad-rescue_D-TMK_parts
 #
-DEF TMK_parts_D D 0 40 Y Y 1 F N
+DEF RubyPad-rescue_D-TMK_parts D 0 40 Y Y 1 F N
 F0 "D" -150 -50 60 V V C CNN
-F1 "TMK_parts_D" 150 -50 60 V I C CNN
+F1 "RubyPad-rescue_D-TMK_parts" 150 -50 60 V I C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -110,11 +110,11 @@ X ~ 2 0 -150 50 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
-# TMK_parts_KEYSW
+# RubyPad-rescue_KEYSW-TMK_parts
 #
-DEF TMK_parts_KEYSW K? 0 40 Y Y 1 F N
+DEF RubyPad-rescue_KEYSW-TMK_parts K? 0 40 Y Y 1 F N
 F0 "K?" -50 0 60 H V C CNN
-F1 "TMK_parts_KEYSW" 0 -100 60 H I C CNN
+F1 "RubyPad-rescue_KEYSW-TMK_parts" 0 -100 60 H I C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -126,11 +126,11 @@ X ~ 2 -300 0 50 R 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
-# TMK_parts_R
+# RubyPad-rescue_R-TMK_parts
 #
-DEF TMK_parts_R R 0 0 N Y 1 F N
+DEF RubyPad-rescue_R-TMK_parts R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "TMK_parts_R" 0 0 50 V V C CNN
+F1 "RubyPad-rescue_R-TMK_parts" 0 0 50 V V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -147,11 +147,11 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
-# TMK_parts_SW_PUSH
+# RubyPad-rescue_SW_PUSH-TMK_parts
 #
-DEF TMK_parts_SW_PUSH SW 0 40 N N 1 F N
+DEF RubyPad-rescue_SW_PUSH-TMK_parts SW 0 40 N N 1 F N
 F0 "SW" 150 110 50 H V C CNN
-F1 "TMK_parts_SW_PUSH" 0 -80 50 H V C CNN
+F1 "RubyPad-rescue_SW_PUSH-TMK_parts" 0 -80 50 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -162,11 +162,11 @@ X 2 2 300 0 200 L 60 60 0 1 P I
 ENDDRAW
 ENDDEF
 #
-# TMK_parts_USB_mini_micro_B
+# RubyPad-rescue_USB_mini_micro_B-TMK_parts
 #
-DEF TMK_parts_USB_mini_micro_B J 0 40 Y Y 1 F N
+DEF RubyPad-rescue_USB_mini_micro_B-TMK_parts J 0 40 Y Y 1 F N
 F0 "J" -400 -50 60 H V C CNN
-F1 "TMK_parts_USB_mini_micro_B" -150 250 60 H I C CNN
+F1 "RubyPad-rescue_USB_mini_micro_B-TMK_parts" -150 250 60 H I C CNN
 F2 "" -50 0 60 H V C CNN
 F3 "" -50 0 60 H V C CNN
 DRAW
@@ -180,11 +180,11 @@ X SHIELD 6 150 -350 200 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# TMK_parts_XTAL_GND
+# RubyPad-rescue_XTAL_GND-TMK_parts
 #
-DEF TMK_parts_XTAL_GND X 0 40 N N 1 F N
+DEF RubyPad-rescue_XTAL_GND-TMK_parts X 0 40 N N 1 F N
 F0 "X" 0 150 60 H V C CNN
-F1 "TMK_parts_XTAL_GND" 0 -150 60 H V C CNN
+F1 "RubyPad-rescue_XTAL_GND-TMK_parts" 0 -150 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
