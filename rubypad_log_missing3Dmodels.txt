@@ -1,0 +1,17 @@
+Can not find model defined with enviroment variable:
+${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+Can not find model defined with enviroment variable:
+${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+Can not find model defined with enviroment variable (C:\code\kicad-packages3D\ :
+/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/ArduinoProMicro.wrl
+Can not find model defined with enviroment variable:
+${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+Can not find model defined with enviroment variable:
+${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+Can not find model defined with enviroment variable:
+${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+Can not find model defined with enviroment variable (C:\code\kicad-packages3D\ :
+C:/code/kicad-packages3D/Diodes_SMD.3dshapes/D_SOD-123.step
+Can not find model defined with enviroment variable:
+${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+[('MX5', '${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl'), ('MX4', '${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl'), ('U1', '/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/ArduinoProMicro.wrl'), ('MX2', '${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl'), ('D4', 'C:\\code\\kicad-packages3D\\Diodes_SMD.3dshapes\\D_SOD-123.step'), ('D6', 'C:\\code\\kicad-packages3D\\Diodes_SMD.3dshapes\\D_SOD-123.step'), ('SW1', 'C:\\code\\kicad-packages3D\\Rotary_Encoder.3dshapes\\RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl'), ('D2', 'C:\\code\\kicad-packages3D\\Diodes_SMD.3dshapes\\D_SOD-123.step'), ('MX1', '${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl'), ('D7', 'C:\\code\\kicad-packages3D\\Diodes_SMD.3dshapes\\D_SOD-123.step'), ('MX3', '${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl'), ('D1', 'C:/code/kicad-packages3D/Diodes_SMD.3dshapes/D_SOD-123.step'), ('MX6', '${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl'), ('D5', 'C:\\code\\kicad-packages3D\\Diodes_SMD.3dshapes\\D_SOD-123.step'), ('D3', 'C:\\code\\kicad-packages3D\\Diodes_SMD.3dshapes\\D_SOD-123.step')]
