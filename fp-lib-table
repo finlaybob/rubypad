@@ -4,4 +4,5 @@
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "rubypad-footprints")(type "KiCad")(uri "${KIPRJMOD}/rubypad-footprints")(options "")(descr ""))
+  (lib (name "reversible-kicad-footprints")(type "KiCad")(uri "${KIPRJMOD}/reversible-kicad/reversible-kicad-footprints")(options "")(descr ""))
 )
