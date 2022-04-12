@@ -1571,7 +1571,7 @@
 
   (footprint "reversible-kicad-footprints:PushButton_4.5mm" (layer "F.Cu")
     (tedit 5F48503B) (tstamp c5328003-7aee-4519-a1d5-9a88f07e5e84)
-    (at 97.536 35.56 -90)
+    (at 89.408 39.116 -90)
     (property "Sheetfile" "rubypad.kicad_sch")
     (property "Sheetname" "")
     (path "/e8682368-8233-4b64-9828-1ea8b034d455")
@@ -1797,7 +1797,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp f6725ab0-7dfe-48ef-8df2-c34c07829107)
-    (at 97.552 39.624)
+    (at 89.424 43.18)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "rubypad.kicad_sch")
@@ -2353,5 +2353,14 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_line (start 100 107.5) (end 100 35) (layer "Edge.Cuts") (width 0.1) (tstamp 03509684-a1d7-4912-94d4-1cfb3b131030))
+  (gr_line (start 97.5 32.5) (end 37.5 32.5) (layer "Edge.Cuts") (width 0.1) (tstamp 11c9f1e2-b5a4-431b-a658-5482199da025))
+  (gr_arc (start 97.5 32.5) (mid 99.267767 33.232233) (end 100 35) (layer "Edge.Cuts") (width 0.1) (tstamp 2a2879fc-ec4b-4a25-8612-5754c11fab4c))
+  (gr_arc (start 37.5 110) (mid 35.732233 109.267767) (end 35 107.5) (layer "Edge.Cuts") (width 0.1) (tstamp 5229cd57-cdd8-46bf-80cc-0a5016c831d4))
+  (gr_line (start 35 35) (end 35 107.5) (layer "Edge.Cuts") (width 0.1) (tstamp a904bf33-2991-4945-b13c-eded14375aab))
+  (gr_arc (start 100 107.5) (mid 99.267767 109.267767) (end 97.5 110) (layer "Edge.Cuts") (width 0.1) (tstamp efadcb34-53ea-4c03-b380-beb23e60eebf))
+  (gr_line (start 37.5 110) (end 97.5 110) (layer "Edge.Cuts") (width 0.1) (tstamp f4b19e96-c653-4685-9c86-034b9927bb91))
+  (gr_arc (start 35 35) (mid 35.732233 33.232233) (end 37.5 32.5) (layer "Edge.Cuts") (width 0.1) (tstamp fbbeccaa-dbb2-4c2a-b8a4-e86d35e60154))
 
 )
