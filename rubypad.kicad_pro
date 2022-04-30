@@ -380,8 +380,10 @@
         "name": "Power",
         "nets": [
           "GND",
-          "Net-(J1-PadA4)",
-          "VCC"
+          "GND_b",
+          "LED_PWR",
+          "LED_PWR_b",
+          "VBUS_b"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",

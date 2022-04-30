@@ -4,4 +4,5 @@
   (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/keebio-components/keebio.lib")(options "")(descr ""))
   (lib (name "reversible-kicad-symbols")(type "Legacy")(uri "${KIPRJMOD}/reversible-kicad/reversible-kicad-symbols.lib")(options "")(descr ""))
   (lib (name "is31fl3731")(type "Legacy")(uri "${KIPRJMOD}/keyboard_parts.pretty/is31fl3731.lib")(options "")(descr ""))
+  (lib (name "DjinnSymbols")(type "Legacy")(uri "${KIPRJMOD}/DjinnSymbols/DjinnSymbols.lib")(options "")(descr ""))
 )
